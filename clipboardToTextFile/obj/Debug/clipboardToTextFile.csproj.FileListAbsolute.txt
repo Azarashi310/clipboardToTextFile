@@ -1,0 +1,1 @@
+d:\my document\visual studio 2013\Projects\clipboardToTextFile\clipboardToTextFile\bin\Debug\clipboardToTextFile.exe.config
